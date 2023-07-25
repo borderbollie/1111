@@ -5,13 +5,13 @@
 
 # 安裝 VS Code
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/584cb3da-c875-45db-93e1-bb67bc2c4ffb/Untitled.png)
+![Untitled](https://i.imgur.com/reWy7WS.png)
 
 (ctrl + k + t → 改變主題/風格)
 
 ### 新增掛件
 
-![1690248882173.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/27fad803-6782-4a5a-80af-1c3da1b233f5/1690248882173.jpg)
+![1690248882173.jpg](https://i.imgur.com/aHDxHvV.jpeg)
 
 ---
 
